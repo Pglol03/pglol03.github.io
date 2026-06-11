@@ -1,0 +1,6 @@
+# robots.txt for Pradyun Gayakwad's portfolio
+User-agent: *
+Allow: /
+
+# sitemap location
+Sitemap: https://pglol03.github.io/sitemap.xml
